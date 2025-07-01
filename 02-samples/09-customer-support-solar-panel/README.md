@@ -6,7 +6,7 @@ This example implements a comprehensive solar panel customer support agent using
 
 The Solar Panel Customer Support System combines several technologies to create a support solution :
 
-[Architecture](./images/architecture.png)
+![Architecture](./images/architecture.png)
 
 ## Prerequisites
 
