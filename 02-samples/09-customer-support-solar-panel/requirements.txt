@@ -1,0 +1,15 @@
+boto3
+botocore
+awscli
+opensearch-py
+requests-aws4auth
+pyyaml
+retrying
+pandas
+strands-agents
+strands-agents-tools
+mem0ai
+python-dotenv
+mem0ai
+langfuse
+atlassian-python-api

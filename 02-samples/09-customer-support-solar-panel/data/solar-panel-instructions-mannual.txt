@@ -1,0 +1,84 @@
+# Home Solar Panel Installation Guide
+
+## SunPower X Model
+
+**Description:** The SunPower X is a mid-range residential solar panel with excellent efficiency for its price point. It features a sleek black design with minimal grid lines, making it aesthetically pleasing for most home installations.
+
+**Features:**
+- 19.8% efficiency rating
+- 320-watt output per panel
+- 25-year product and performance warranty
+- Integrated microinverter system
+- Weather-resistant frame
+
+### Installation Steps for SunPower X:
+1. Conduct a site assessment to determine optimal placement and sun exposure
+2. Secure necessary permits from local building department
+3. Purchase mounting hardware compatible with your roof type
+4. Install mounting rails according to manufacturer specifications
+5. Attach the microinverters to the mounting rails
+6. Connect the microinverters to your home's electrical system
+7. Mount the SunPower X panels onto the rails
+8. Connect the panels to the microinverters
+9. Install monitoring system to track performance
+10. Schedule inspection with local building department for final approval
+
+## SunPower Y Model
+
+**Description:** The SunPower Y is an entry-level solar panel designed for budget-conscious homeowners. Despite its lower price point, it offers reliable performance and durability.
+
+**Features:**
+- 17.5% efficiency rating
+- 290-watt output per panel
+- 20-year product warranty
+- String inverter compatible
+- Enhanced durability in harsh weather conditions
+
+### Installation Steps for SunPower Y:
+1. Complete a roof structural assessment
+2. Obtain required permits and utility interconnection agreement
+3. Install roof attachments according to local building codes
+4. Mount racking system to roof attachments
+5. Install string inverter near main electrical panel
+6. Place and secure SunPower Y panels onto the racking system
+7. Wire panels together in series to create strings
+8. Connect strings to the inverter
+9. Connect inverter to home's electrical system
+10. Install monitoring equipment
+11. Schedule final inspection with local authorities
+
+## SunPower Double-X Model
+
+**Description:** The SunPower Double-X is a premium bifacial solar panel that captures sunlight from both sides, maximizing energy production. It's ideal for installations with reflective surfaces below or for ground-mounted systems.
+
+**Features:**
+- 22.3% front-side efficiency, 8% additional from rear-side capture
+- 400-watt output per panel
+- 30-year comprehensive warranty
+- Dual-glass construction
+- Advanced temperature coefficient for better performance in heat
+
+### Installation Steps for SunPower Double-X:
+1. Perform comprehensive site analysis including reflection potential
+2. Secure enhanced structural permits due to additional weight
+3. Install specialized elevated mounting system to allow light reflection
+4. Connect power optimizers to each panel location
+5. Mount the Double-X panels with proper spacing for airflow
+6. Install central inverter system
+7. Connect panels to power optimizers
+8. Wire power optimizers to central inverter
+9. Configure monitoring system for bifacial performance tracking
+10. Connect system to home electrical panel through appropriate disconnect switches
+11. Schedule specialized bifacial system inspection
+
+## Compliance with Energy Rules:
+1. Research local, state, and federal regulations before installation
+2. Ensure your installer is certified by the North American Board of Certified Energy Practitioners (NABCEP)
+3. Obtain all required building and electrical permits
+4. Follow National Electrical Code (NEC) requirements for solar installations
+5. Contact your utility company about interconnection requirements
+6. Install required rapid shutdown systems for firefighter safety
+7. Maintain proper setbacks from roof edges as required by local code
+8. Schedule all required inspections during and after installation
+9. Register your system with local utility for net metering benefits
+10. Keep documentation of all permits and inspections for tax credit purposes

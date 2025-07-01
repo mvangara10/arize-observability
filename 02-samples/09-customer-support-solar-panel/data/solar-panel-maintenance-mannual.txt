@@ -1,0 +1,49 @@
+# Maintenance Guide for SunPower Solar Panel Models
+
+## SunPower X Model Maintenance
+1. Inspect panels visually every 3 months for dirt, debris, or damage
+2. Clean panels quarterly using distilled water and a soft brush on a telescoping pole
+3. Avoid using harsh chemicals or abrasive materials when cleaning
+4. Check microinverter indicator lights monthly to ensure proper operation
+5. Monitor system performance through the provided app or web portal
+6. Clear any vegetation that may begin to shade the panels
+7. After severe weather, perform additional visual inspections for damage
+8. Verify mounting hardware tightness annually
+9. Check electrical connections for corrosion once per year
+10. Schedule professional inspection every 2-3 years to maintain warranty validity
+
+## SunPower Y Model Maintenance
+1. Visually inspect panels every 3-4 months for accumulated debris
+2. Clean panels with soft cloth and mild soap solution twice yearly
+3. Check string inverter display regularly for error codes or warnings
+4. Clear leaves and debris from around the string inverter to maintain airflow
+5. Compare energy production reports monthly to identify potential issues
+6. Inspect roof attachments and racking system annually for security
+7. Test monitoring equipment quarterly to ensure accurate reporting
+8. Trim trees or vegetation that may cast shadows on panels
+9. After storms, check for physical damage or loose components
+10. Have an electrician inspect wiring connections annually
+
+## SunPower Double-X Model Maintenance
+1. Clean both front and back surfaces of panels quarterly
+2. Ensure the area beneath elevated panels remains reflective and clear of debris
+3. Check specialized mounting system for stability every 6 months
+4. Monitor bifacial performance metrics to ensure rear-side generation is optimal
+5. Inspect power optimizers annually for proper operation
+6. Maintain proper clearance around central inverter for cooling
+7. Clean or replace air filters on the central inverter system as needed
+8. Verify dual-glass construction for any cracks or moisture intrusion twice yearly
+9. Test disconnect switches annually to ensure proper emergency operation
+10. Schedule professional bifacial system inspection annually to maintain extended warranty
+
+## Ensuring Compliance with Energy Rules
+1. Keep all installation permits, inspection certificates, and warranty documents in a dedicated file
+2. Review utility interconnection agreement annually for any policy changes
+3. Maintain NABCEP certification records of your installer for warranty claims
+4. Schedule required reinspections as mandated by local building codes
+5. Update monitoring system firmware when available to maintain compliance
+6. Register any system modifications with your utility company
+7. Maintain rapid shutdown system functionality through annual testing
+8. Keep records of all maintenance activities for warranty and insurance purposes
+9. Review net metering credits monthly to ensure proper utility accounting
+10. Stay informed about changes to local solar regulations that may affect your system
